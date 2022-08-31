@@ -1,7 +1,17 @@
 <h1 align="center">Hi 👋, I'm Mateus Ferreira</h1>
 <h3 align="center">A passionate developer interested in the application of technology to generate social and environmental impacts</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mateus-fecassio&label=profile%20views&color=0e75b6&style=flat" alt="mateus-fecassio" /> </p>
+<p align="center">
+  <a href="https://leetcode.com/mateus-fecassio/">
+    <img src="https://cp-logo.vercel.app/leetcode/mateus-fecassio" alt="Leet code rating" />
+  </a>
+  <a href="https://github.com/mateus-fecassio?tab=followers">
+    <img alt="GitHub followers" src="https://img.shields.io/github/followers/mateus-fecassio?color=green&logo=github">
+  </a>
+  <a href="https://github.com/mateus-fecassio/">
+    <img src="https://komarev.com/ghpvc/?username=mateus-fecassio&label=profile%20views&color=0e75b6&style=flat" alt="GitHub profile views" />
+  </a>
+</p>
 
 - 🔭 I’m currently working on **classification of caries levels in dental images.**
 
