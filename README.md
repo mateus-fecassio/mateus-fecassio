@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Mateus Ferreira</h1>
-<h3 align="center">A passionate developer interested in the application of technology to generate social and environmental impacts</h3>
+<h1 align="center">Hi 👋, I am Mateus Ferreira</h1>
+<h3 align="center">A passionate developer interested in technology application to generate social and environmental impacts.</h3>
 
 <p align="center">
   <a href="https://leetcode.com/mateus-fecassio/">
@@ -13,15 +13,15 @@
   </a>
 </p>
 
-- 🔭 I’m currently working on **classification of caries levels in dental images.**
+- 🔭 I am currently working on a project about **caries levels classification in dental images.**
 
-- 🌱 I’m currently learning **computer vision related topics.**
+- 🌱 I am currently learning **computer vision related topics**.
 
-- 💬 Ask me about **Python, C and image processing.**
+- 💬 Ask me about **Python, C and image processing**.
 
 - 📫 How to reach me: **mateus.fecassio@gmail.com**
 
-- 📄 Know about my experiences [here](files/CV___Mateus_Ferreira.pdf).
+- 📄 Know about my experiences on my Resume in [English](files/RESUME___Mateus_Ferreira.pdf) or [Portuguese](files/CV___Mateus_Ferreira.pdf).
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
