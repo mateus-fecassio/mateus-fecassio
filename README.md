@@ -13,7 +13,7 @@
   </a>
 </p>
 
-- 🔭 I am currently working on a project about **caries levels classification in dental images.**
+- 🔭 I am currently working on a undergraduate final project about **caries level classification in dental images**.
 
 - 🌱 I am currently learning **computer vision related topics**.
 
