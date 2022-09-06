@@ -21,7 +21,7 @@
 
 - 📫 How to reach me: **mateus.fecassio@gmail.com**
 
-- 📄 Know about my experiences on my Resume in [English](files/RESUME___Mateus_Ferreira.pdf) or [Portuguese](files/CV___Mateus_Ferreira.pdf).
+- 📄 Know about my experiences on my Resume in [English](files/RESUME_Mateus_Ferreira.pdf) or [Portuguese](files/CV_Mateus_Ferreira.pdf).
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
